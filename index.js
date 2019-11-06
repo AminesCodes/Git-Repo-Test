@@ -11,5 +11,4 @@ const Math = {
     sub: sub
   }
 
-
   module.exports = Math
